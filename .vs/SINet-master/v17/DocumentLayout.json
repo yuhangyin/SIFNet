@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yinyu\\OneDrive\\Desktop\\SINet-master\\SINet-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yinyu\\OneDrive\\Desktop\\SINet-master\\SINet-master\\MyTest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyTest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yinyu\\OneDrive\\Desktop\\SINet-master\\SINet-master\\MyTrain.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyTrain.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yinyu\\OneDrive\\Desktop\\SINet-master\\SINet-master\\Src\\SINet.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\SINet.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyTest.py",
+              "DocumentMoniker": "C:\\Users\\yinyu\\OneDrive\\Desktop\\SINet-master\\SINet-master\\MyTest.py",
+              "RelativeDocumentMoniker": "MyTest.py",
+              "ToolTip": "C:\\Users\\yinyu\\OneDrive\\Desktop\\SINet-master\\SINet-master\\MyTest.py",
+              "RelativeToolTip": "MyTest.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-01T09:55:16.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SINet.py",
+              "DocumentMoniker": "C:\\Users\\yinyu\\OneDrive\\Desktop\\SINet-master\\SINet-master\\Src\\SINet.py",
+              "RelativeDocumentMoniker": "Src\\SINet.py",
+              "ToolTip": "C:\\Users\\yinyu\\OneDrive\\Desktop\\SINet-master\\SINet-master\\Src\\SINet.py",
+              "RelativeToolTip": "Src\\SINet.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-01T12:11:40.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyTrain.py",
+              "DocumentMoniker": "C:\\Users\\yinyu\\OneDrive\\Desktop\\SINet-master\\SINet-master\\MyTrain.py",
+              "RelativeDocumentMoniker": "MyTrain.py",
+              "ToolTip": "C:\\Users\\yinyu\\OneDrive\\Desktop\\SINet-master\\SINet-master\\MyTrain.py",
+              "RelativeToolTip": "MyTrain.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-01T09:49:23.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
